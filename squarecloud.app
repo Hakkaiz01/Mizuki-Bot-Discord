@@ -1,0 +1,6 @@
+DISPLAY_NAME=𝑴𝒊𝒛𝒖𝒌𝒊
+MAIN=index.js
+VERSION=recommended
+MEMORY=512
+AUTORESTART=true
+DESCRIPTION=nick
