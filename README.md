@@ -1,4 +1,4 @@
-# 💎 DBC Super Bot
+# 💎 Mizuki Bot
 
 Um bot multifuncional para Discord, projetado para automação, moderação, utilidades, diversão e sistemas avançados de formulários, sugestões, denúncias e staff. Ideal para comunidades que buscam organização, interatividade e automação inteligente.
 
