@@ -86,7 +86,6 @@ logs/                # Logs de erros, prompts e atividades
 - [Node.js](https://nodejs.org/)
 - [discord.js](https://discord.js.org/)
 - [quick.db](https://www.npmjs.com/package/quick.db) (armazenamento rápido)
-- Integração com IA (Mistral)
 
 ---
 
